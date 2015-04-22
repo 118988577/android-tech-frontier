@@ -15,7 +15,7 @@ I've been doing Android instrumentation testing with Dagger, Espresso and Mockit
 
 https://github.com/chiuki/android-test-demo
 
-我一直在用Dagger, Espresso和Mockito做Android测试，爱死这个组合了！为了庆祝[Dagger 2](http://google.github.io/dagger/)的推出，我分享了一个用Dagger 2, Espresso 2和Mockito做Android测试的Demo：
+我一直在用Dagger, Espresso和Mockito做Android测试，天呐，爱死这个组合了！为了庆祝[Dagger 2](http://google.github.io/dagger/)的推出，我分享了一个用Dagger 2, Espresso 2和Mockito做Android测试的Demo：
 
 https://github.com/chiuki/android-test-demo
 
