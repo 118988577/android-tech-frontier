@@ -39,7 +39,7 @@ Volley is a small library compared to Retrofit ,but it is undocumented. Retrofit
 
 ![volley-vs-retrofit](http://img.my.csdn.net/uploads/201504/13/1428929622_5444.png)
 
-与Retrofit相比，Volley是一个小型库，但它是非法的。Retrofit是[Square](https://github.com/square)开发的，后者还开发过okhttp，picasso...等一些著名的库(你可以在[这里](https://square.github.io/#android)找到其他的库)。如果你需要Volley的指引，你可以在[Google Training](https://developer.android.com/training/volley/index.html)或者[Volley Plus from DWork](https://github.com/DWorkS/VolleyPlus)找到相关文档。
+与Retrofit相比，Volley是一个小型库，而且缺乏官方文档。Retrofit是[Square](https://github.com/square)开发的，后者还开发过okhttp，picasso...等一些著名的库(你可以在[这里](https://square.github.io/#android)找到其他的库)。如果你需要Volley的指引，你可以在[Google Training](https://developer.android.com/training/volley/index.html)或者[Volley Plus from DWork](https://github.com/DWorkS/VolleyPlus)找到相关文档。
 
 ## Introduction
 
