@@ -196,3 +196,28 @@ https://github.com/chiuki/android-test-demo
 * EspressoStartGuide
 * What’s new in Android Testing
 * https://github.com/googlesamples/android-testing
+* 
+
+
+
+
+// sample
+
+```java
+Color[] colorRange = new Color[]{[255,60,0], [255,255,0]},
+int boltCount = 2;
+Bolt eachBolt = new Bolt();
+if(bolts.size == colorRange.size) ﻿{
+    eachBolt.startColor = colorRange[boltIndex];
+}
+```
+
+
+
+
+
+
+
+
+
+
